@@ -1,1 +1,2 @@
 Git merge
+This is the new changes 
